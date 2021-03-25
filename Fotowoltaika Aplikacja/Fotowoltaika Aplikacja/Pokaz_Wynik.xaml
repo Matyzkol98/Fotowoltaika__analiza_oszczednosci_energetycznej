@@ -1,0 +1,18 @@
+﻿<Window x:Class="Fotowoltaika_Aplikacja.Pokaz_Wynik"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Fotowoltaika_Aplikacja"
+        mc:Ignorable="d"
+        Title="Pokaz_Wynik" Height="450" Width="800">
+    <Grid>
+        <DataGrid Margin="35,92,35,52"/>
+        <Label Content="Tabela wyników" HorizontalAlignment="Left" Height="35" Margin="282,20,0,0" VerticalAlignment="Top" Width="173" FontSize="18" RenderTransformOrigin="0.5,0.584"/>
+        <Button Content="Zaladuj plik" HorizontalAlignment="Left" Height="23" Margin="460,47,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Stworz wykres" HorizontalAlignment="Left" Height="23" Margin="660,47,0,0" VerticalAlignment="Top" Width="120" Click="Stworz_Wykres_Button"/>
+        <Button Content="Powrot" HorizontalAlignment="Left" Height="23" Margin="100,47,0,0" VerticalAlignment="Top" Width="120" Click="Powrot2_Button"/>
+        <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="780,153,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
