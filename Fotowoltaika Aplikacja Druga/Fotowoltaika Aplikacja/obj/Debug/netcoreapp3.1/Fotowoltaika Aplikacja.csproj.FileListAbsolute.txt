@@ -1,0 +1,29 @@
+C:\Users\user\source\repos\Fotowoltaika Aplikacja\Fotowoltaika Aplikacja\obj\Debug\netcoreapp3.1\Fotowoltaika Aplikacja.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Fotowoltaika Aplikacja\Fotowoltaika Aplikacja\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\user\source\repos\Fotowoltaika Aplikacja\Fotowoltaika Aplikacja\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\user\source\repos\Fotowoltaika Aplikacja\Fotowoltaika Aplikacja\obj\Debug\netcoreapp3.1\Fotowoltaika Aplikacja_MarkupCompile.cache
+C:\Users\user\source\repos\Fotowoltaika Aplikacja\Fotowoltaika Aplikacja\obj\Debug\netcoreapp3.1\Fotowoltaika Aplikacja_MarkupCompile.lref
+C:\Users\user\source\repos\Fotowoltaika Aplikacja\Fotowoltaika Aplikacja\bin\Debug\netcoreapp3.1\Fotowoltaika Aplikacja.exe
+C:\Users\user\source\repos\Fotowoltaika Aplikacja\Fotowoltaika Aplikacja\bin\Debug\netcoreapp3.1\Fotowoltaika Aplikacja.deps.json
+C:\Users\user\source\repos\Fotowoltaika Aplikacja\Fotowoltaika Aplikacja\bin\Debug\netcoreapp3.1\Fotowoltaika Aplikacja.runtimeconfig.json
+C:\Users\user\source\repos\Fotowoltaika Aplikacja\Fotowoltaika Aplikacja\bin\Debug\netcoreapp3.1\Fotowoltaika Aplikacja.runtimeconfig.dev.json
+C:\Users\user\source\repos\Fotowoltaika Aplikacja\Fotowoltaika Aplikacja\bin\Debug\netcoreapp3.1\Fotowoltaika Aplikacja.dll
+C:\Users\user\source\repos\Fotowoltaika Aplikacja\Fotowoltaika Aplikacja\bin\Debug\netcoreapp3.1\Fotowoltaika Aplikacja.pdb
+C:\Users\user\source\repos\Fotowoltaika Aplikacja\Fotowoltaika Aplikacja\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\user\source\repos\Fotowoltaika Aplikacja\Fotowoltaika Aplikacja\obj\Debug\netcoreapp3.1\Fotowoltaika Aplikacja.g.resources
+C:\Users\user\source\repos\Fotowoltaika Aplikacja\Fotowoltaika Aplikacja\obj\Debug\netcoreapp3.1\Fotowoltaika Aplikacja.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Fotowoltaika Aplikacja\Fotowoltaika Aplikacja\obj\Debug\netcoreapp3.1\Fotowoltaika Aplikacja.AssemblyInfo.cs
+C:\Users\user\source\repos\Fotowoltaika Aplikacja\Fotowoltaika Aplikacja\obj\Debug\netcoreapp3.1\Fotowoltaika Aplikacja.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Fotowoltaika Aplikacja\Fotowoltaika Aplikacja\obj\Debug\netcoreapp3.1\Fotowoltaika Aplikacja.dll
+C:\Users\user\source\repos\Fotowoltaika Aplikacja\Fotowoltaika Aplikacja\obj\Debug\netcoreapp3.1\Fotowoltaika Aplikacja.pdb
+C:\Users\user\source\repos\Fotowoltaika Aplikacja\Fotowoltaika Aplikacja\obj\Debug\netcoreapp3.1\Fotowoltaika Aplikacja.genruntimeconfig.cache
+C:\Users\user\source\repos\Fotowoltaika Aplikacja\Fotowoltaika Aplikacja\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\user\source\repos\Fotowoltaika Aplikacja\Fotowoltaika Aplikacja\obj\Debug\netcoreapp3.1\Fotowoltaika Aplikacja.csproj.ResolveComReference.cache
+C:\Users\user\source\repos\Fotowoltaika Aplikacja\Fotowoltaika Aplikacja\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\user\source\repos\Fotowoltaika Aplikacja\Fotowoltaika Aplikacja\obj\Debug\netcoreapp3.1\Views\Okno_wyboru_sciezki.g.cs
+C:\Users\user\source\repos\Fotowoltaika Aplikacja\Fotowoltaika Aplikacja\obj\Debug\netcoreapp3.1\Views\Pokaz_wyniki.g.cs
+C:\Users\user\source\repos\Fotowoltaika Aplikacja\Fotowoltaika Aplikacja\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\source\repos\Fotowoltaika Aplikacja\Fotowoltaika Aplikacja\obj\Debug\netcoreapp3.1\Views\Okno_wyboru_sciezki.baml
+C:\Users\user\source\repos\Fotowoltaika Aplikacja\Fotowoltaika Aplikacja\obj\Debug\netcoreapp3.1\Views\Pokaz_wyniki.baml
+C:\Users\user\source\repos\Fotowoltaika Aplikacja\Fotowoltaika Aplikacja\obj\Debug\netcoreapp3.1\Views\Glowny_Widok.g.cs
+C:\Users\user\source\repos\Fotowoltaika Aplikacja\Fotowoltaika Aplikacja\obj\Debug\netcoreapp3.1\Views\Glowny_Widok.baml
