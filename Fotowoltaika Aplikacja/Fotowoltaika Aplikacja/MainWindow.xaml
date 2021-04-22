@@ -4,13 +4,25 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Fotowoltaika_Aplikacja"
+        xmlns:viewmodels="clr-namespace:Fotowoltaika_Aplikacja.ViewModels"
+        xmlns:views="clr-namespace:Fotowoltaika_Aplikacja.Views"
         mc:Ignorable="d"
         Title="Fotowoltaika Aplikacja" Height="450" Width="800">
-    <Grid>
-        <Button x:Name="Rap_dobowy" Content="Raport dobowy" HorizontalAlignment="Left" Height="60" Margin="100,110,0,0" VerticalAlignment="Top" Width="160" Click="przycisk_raport_dobowy"/>
-        <Button x:Name="Rap_miesieczny" Content="Raport miesieczny" HorizontalAlignment="Left" Height="60" Margin="300,110,0,0" VerticalAlignment="Top" Width="160" Click="przycisk_raport_miesieczny"/>
-        <Button x:Name="Rap_roczny" Content="Raport roczny" HorizontalAlignment="Left" Height="60" Margin="500,110,0,0" VerticalAlignment="Top" Width="160" Click="przycisk_raport_roczny"/>
-        <Label Content="Fotowoltaika Produkcja Energii" HorizontalAlignment="Left" Height="50" Margin="260,20,0,0" VerticalAlignment="Top" Width="353" FontSize="22"/>
+    
+    
 
-    </Grid>
+    <ContentControl Content="{Binding ObecnyWidokModel}">
+        <ContentControl.Resources>
+            <DataTemplate DataType="{x:Type viewmodels:Glowny_widok_model}">
+                <views:Glowny_Widok/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewmodels:Okno_wyboru_sciezki_model}">
+                <views:Okno_wyboru_sciezki/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewmodels:Pokaz_wyniki_model}">
+                <views:Pokaz_wyniki/>
+            </DataTemplate>
+        </ContentControl.Resources>
+    </ContentControl>
+    
 </Window>

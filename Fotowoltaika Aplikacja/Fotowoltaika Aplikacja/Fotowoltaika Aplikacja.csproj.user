@@ -7,10 +7,13 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="Okno_wyboru_sciezki.xaml.cs">
+    <Compile Update="Views\Glowny_Widok.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Pokaz_Wynik.xaml.cs">
+    <Compile Update="Views\Okno_wyboru_sciezki.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Pokaz_wyniki.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -18,10 +21,13 @@
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="Okno_wyboru_sciezki.xaml">
+    <Page Update="Views\Glowny_Widok.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="Pokaz_Wynik.xaml">
+    <Page Update="Views\Okno_wyboru_sciezki.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Pokaz_wyniki.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

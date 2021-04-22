@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
 C:\Users\user\source\repos\Fotowoltaika Aplikacja\Fotowoltaika Aplikacja\App.xaml
-3-1363503581
+41210325177
 
-5-2036835048
+16-598557307
 1931466913746
-MainWindow.xaml;Okno_wyboru_sciezki.xaml;Pokaz_Wynik.xaml;
+MainWindow.xaml;Views\Glowny_Widok.xaml;Views\Okno_wyboru_sciezki.xaml;Views\Pokaz_wyniki.xaml;
 
 False
 

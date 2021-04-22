@@ -53,7 +53,7 @@ namespace Fotowoltaika_Aplikacja {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Fotowoltaika Aplikacja;component/pokaz_wynik.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Fotowoltaika Aplikacja;V1.0.0.0;component/pokaz_wynik.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Pokaz_Wynik.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

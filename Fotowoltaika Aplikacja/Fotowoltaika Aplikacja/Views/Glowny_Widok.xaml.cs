@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -12,22 +10,18 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using Fotowoltaika_Aplikacja.ViewModels;
-using Fotowoltaika_Aplikacja.Views;
-using Fotowoltaika_Aplikacja.Commands;
 
-namespace Fotowoltaika_Aplikacja
+namespace Fotowoltaika_Aplikacja.Views
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for Glowny_Widok.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Glowny_Widok : UserControl
     {
-        public MainWindow()  
+        public Glowny_Widok()
         {
             InitializeComponent();
         }
-        
 
     }
 }
