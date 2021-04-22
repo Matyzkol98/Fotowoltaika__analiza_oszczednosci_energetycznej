@@ -1,0 +1,3 @@
+Pierwsza aplikacja na moment 18.04.2021r.
+Kolejne kroki w aplikacji uruchamiają dodatkowe okna.
+Umożliwia uruchomienie skryptu pythona.
