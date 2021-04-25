@@ -1,4 +1,4 @@
-# Fotowoltaika---analiza-oszczednosci-energetycznej
+# Fotowoltaika - analiza oszczędności energetycznej
 
 Założenia: 
   1. Obrobienie danych wejściowych pobranych z licznika paneli fotowoltaicznych i ze strony firmy energetycznej przy pomocy skryptu napisanego w Pythonie 
