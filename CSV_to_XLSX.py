@@ -16,7 +16,9 @@ def zmiana_znakow_tauron_dobowe():
                 file.write(line.replace(';', ','))
 
 def zmiana_znakow_tauron_godzinowe():
-    with open('C:/Users/KolodTad/Desktop/Fotovolt/Godzinowe/dane.csv', 'rt') as file:
+    sciezka_tauron = input('Podaj ścieżkę do pliku z Tauronu: ')
+#    with open('C:/Users/KolodTad/Desktop/Fotovolt/Godzinowe/dane.csv', 'rt') as file:
+    with open(sciezka_tauron, 'rt') as file:
         with open('C:/Users/KolodTad/Desktop/Fotovolt/temp/dane_temp_godzinowe.csv', 'wt') as file2:
             for line in file:
                 file2.write(line.replace(',', '.'))
