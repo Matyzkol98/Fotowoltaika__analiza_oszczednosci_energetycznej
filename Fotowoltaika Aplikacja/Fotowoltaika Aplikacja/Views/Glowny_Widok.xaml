@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="Fotowoltaika_Aplikacja.Views.Glowny_Widok"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Fotowoltaika_Aplikacja.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Button x:Name="Rap_godzinny" Command="{Binding Command_OknoWyboruSciezki}" Content="Raport godzinny" HorizontalAlignment="Left" Height="60" Margin="100,110,0,0" VerticalAlignment="Top" Width="160"/>
+        <Button x:Name="Rap_dobowy"  Command="{Binding Command_OknoWyboruSciezki}" Content="Raport dobowy" HorizontalAlignment="Left" Height="60" Margin="300,110,0,0" VerticalAlignment="Top" Width="160"/>
+        <Button x:Name="Rap_miesieczny" Command="{Binding Command_OknoWyboruSciezki}" Content="Raport miesieczny" HorizontalAlignment="Left" Height="60" Margin="500,110,0,0" VerticalAlignment="Top" Width="160"/>
+        <Label Content="Fotowoltaika Produkcja Energii" HorizontalAlignment="Left" Height="50" Margin="260,20,0,0" VerticalAlignment="Top" Width="353" FontSize="22"/>
+        
+
+
+    </Grid>
+</UserControl>
